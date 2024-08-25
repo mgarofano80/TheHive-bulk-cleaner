@@ -1,4 +1,4 @@
-# The Hive Management Script
+# The Hive Bulk Cleaner
 
 This Python script provides a set of functions to manage alerts, observables, and custom tags within The Hive, an open-source incident response platform. The script allows you to delete all alerts, all custom tags, or all observables associated with alerts in bulk.
 
