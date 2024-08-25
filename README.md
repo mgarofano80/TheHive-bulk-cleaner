@@ -65,7 +65,7 @@ The script prints out messages to the console indicating the success or failure 
 
 ## Disclaimer
 
-This script was created by me as an independent developer and is not associated with or endorsed by [The Hive Project](https://strangebee.com/thehive/) or its developers. The script is provided "as-is" without any representations or warranties, express or implied. I take no responsibility for any damage or issues that may arise from using this script with your The Hive installation. All API information utilized in this script was retrieved from the official documentation at [The Hive API Documentation](https://docs.strangebee.com/thehive/api-docs/)
+This script was created by me as an independent developer and is not associated with or endorsed by [The Hive Project](https://strangebee.com/thehive/) or its developers. The script is provided "as-is" without any representations or warranties, express or implied. I take no responsibility for any damage or issues that may arise from using this script with your The Hive installation. All API information utilized in this script was retrieved from the official documentation at [The Hive API Documentation](https://docs.strangebee.com/thehive/api-docs/).
 
 ## License
 
