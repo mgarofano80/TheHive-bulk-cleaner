@@ -33,9 +33,7 @@ The script provides three main functionalities:
 To run the script:
 
 1. Clone or download the script to your local machine.
-2. Open a terminal or command prompt.
-3. Navigate to the directory containing the script.
-4. Run the script using Python:
+2. Run the script using Python:
    ```bash
    python3 thehive_bulk_cleaner.py
    ```
@@ -64,6 +62,10 @@ When the script is executed, you will be prompted to choose one of the following
 
 The script prints out messages to the console indicating the success or failure of each deletion operation. If an operation fails, the status code returned by The Hive API is displayed to help diagnose the issue.
 
+## Disclaimer
+
+This script was created by me as an independent developer and is not associated with or endorsed by [The Hive Project](https://strangebee.com/thehive/) or its developers. The script is provided "as-is" without any representations or warranties, express or implied. I take no responsibility for any damage or issues that may arise from using this script with your The Hive installation. All API information utilized in this script was retrieved from the official documentation at [The Hive API Documentation](https://docs.strangebee.com/thehive/api-docs/)
+
 ## License
 
-This script is open-source and can be modified as per your needs. Make sure to review and understand the code before running it in a production environment.
+This script is licensed under the MIT License, which allows you to freely use, modify, and distribute the script. However, please review and understand the code before using it in a production environment, as it is provided "as-is" without any warranties.
