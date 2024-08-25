@@ -37,9 +37,8 @@ To run the script:
 3. Navigate to the directory containing the script.
 4. Run the script using Python:
    ```bash
-   python script_name.py
+   python3 thehive_bulk_cleaner.py
    ```
-   Replace `script_name.py` with the actual name of your script file.
 
 ### Options
 
